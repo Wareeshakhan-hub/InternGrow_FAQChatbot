@@ -1,0 +1,41 @@
+id,category,question,answer
+1,Password,How do I reset my password?,Go to the login page and click on Forgot Password. Enter your registered email and follow the link sent to you to set a new password.
+2,Password,"I forgot my username, what should I do?",Contact the IT helpdesk with your registered email ID and they will retrieve your username within 24 hours.
+3,Password,How often do I need to change my password?,Company policy requires passwords to be changed every 90 days for security reasons.
+4,Password,My account is locked after multiple failed login attempts. What now?,Accounts lock automatically after 5 failed attempts. Wait 30 minutes or contact IT support to unlock it immediately.
+5,VPN,How do I connect to the company VPN?,"Download the VPN client from the software portal, enter your employee credentials, and click Connect."
+6,VPN,"The VPN keeps disconnecting, how can I fix this?","Check your internet stability first. If the issue continues, update the VPN client to the latest version or restart your router."
+7,VPN,Can I use VPN on my personal laptop?,"Yes, but you must first install the company security certificate available on the IT portal."
+8,VPN,What do I do if I cannot access internal servers even after connecting to VPN?,Verify you are connected to the correct VPN region and that your access permissions have been approved by your manager.
+9,Software,How do I request a new software installation?,Submit a software request ticket through the IT portal specifying the software name and business justification.
+10,Software,How long does software installation approval take?,Standard approvals take 1-2 business days depending on licensing availability.
+11,Software,My installed software is showing a license expired error.,Raise a ticket with the license key details and the IT team will renew or reassign a valid license.
+12,Software,Can I install software myself without IT approval?,"No, all installations must go through IT to ensure compliance and security standards."
+13,Email,How do I set up my company email on my phone?,"Go to your phone's mail settings, add a new account, select Exchange, and enter your company email and password."
+14,Email,"I am not receiving any emails, what should I check?","First check your spam folder and storage quota. If the issue persists, contact IT to check server-side delivery logs."
+15,Email,How do I create an email distribution list?,Submit a request to IT with the list name and member email addresses for setup.
+16,Email,My sent emails are bouncing back.,This usually means the recipient address is incorrect or their mailbox is full. Verify the address and try again.
+17,WiFi,How do I connect to the office WiFi?,"Select the network named CompanySecure, enter your employee ID as username and your domain password."
+18,WiFi,"The WiFi is very slow in my area, what can I do?",Report the location to IT so they can check signal strength and possibly install an additional access point.
+19,WiFi,Can guests connect to the office WiFi?,"Yes, guests can use the CompanyGuest network with a temporary code provided by reception."
+20,WiFi,I am connected to WiFi but have no internet access.,"Try forgetting the network and reconnecting. If that fails, restart your device and contact IT if the issue continues."
+21,Hardware,How do I request a new laptop?,Submit a hardware request form through the IT portal along with manager approval.
+22,Hardware,My laptop battery is draining very fast.,This may indicate battery degradation. Raise a hardware ticket so IT can test and possibly replace the battery.
+23,Hardware,Can I get a second monitor for my desk?,"Yes, additional monitors can be requested through the IT asset request form subject to availability."
+24,Hardware,What should I do if my laptop screen is cracked?,Report it immediately to IT with photos of the damage to initiate a repair or replacement process.
+25,Ticketing,How do I raise an IT support ticket?,"Log in to the IT helpdesk portal, click New Ticket, select a category, and describe your issue in detail."
+26,Ticketing,How can I check the status of my ticket?,Log in to the helpdesk portal and go to My Tickets to view real-time status updates.
+27,Ticketing,What is the expected response time for urgent tickets?,Urgent tickets are addressed within 2 hours during business hours.
+28,Ticketing,Can I escalate a ticket if it is not resolved?,"Yes, use the Escalate button on the ticket page or contact the IT manager directly."
+29,Security,What should I do if I suspect a phishing email?,Do not click any links. Report the email immediately using the Report Phishing button in your mail client.
+30,Security,How do I enable two-factor authentication?,"Go to Account Settings, select Security, and follow the steps to link your authenticator app."
+31,Security,Is it safe to use public WiFi for company work?,It is not recommended. Always use the company VPN when connecting through public networks.
+32,Security,What happens if I lose my company laptop?,Report the loss immediately to IT security so the device can be remotely locked and wiped if necessary.
+33,Remote Access,How do I access my work desktop from home?,Use the Remote Desktop application provided by IT after connecting to the company VPN.
+34,Remote Access,Can I print documents while working remotely?,"Yes, if your home printer is configured through the company's remote printing service available on the IT portal."
+35,Remote Access,My remote desktop connection freezes frequently.,This is often due to unstable internet. Try lowering the display quality settings in the remote desktop client.
+36,Printer,How do I connect to the office printer?,Select the printer named Office-MainPrinter from your device's printer settings and enter your employee ID to authenticate.
+37,Printer,Why does my print job show as pending for a long time?,This usually means the printer is out of paper or toner. Check the printer status panel or contact facilities.
+38,Printer,Can I scan documents and send them to my email?,"Yes, use the Scan to Email option on the printer touchscreen and enter your registered email address."
+39,General,What are the IT helpdesk working hours?,"The helpdesk operates from 9 AM to 7 PM, Monday through Friday, with emergency support available 24/7."
+40,General,How do I contact IT support directly?,"You can call the helpdesk hotline, email support@company.com, or raise a ticket through the portal."
