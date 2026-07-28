@@ -1,0 +1,2 @@
+timestamp,query,mode,matched_question,answer,score,feedback
+2026-07-28T23:49:31,how do i reset my password?,basic,How do I reset my password?,Go to the login page and click on Forgot Password. Enter your registered email and follow the link sent to you to set a new password.,1.0,up
